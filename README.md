@@ -1,4 +1,4 @@
-# Wind-turbine-US
+# Wind turbine US
 In this project, we explore classification analysis of the Wind Turbines dataset from CORGIS Dataset Project published on https://corgis-edu.github.io/corgis/csv/wind_turbines/.
 
 The dataset comprises of documented parameters describing the wind turbines installed across US, including the State and County of the turbines site, the year and location of installation and geometrical parameters of the turbines. The details of the parameters are as follows:
